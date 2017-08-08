@@ -1,11 +1,11 @@
 {
   "name": "hqs",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Yet another Http Query Service.",
   "main": "hqs.js",
   "repository": {
     "type": "git",
-    "url": "https://zhenzhong@bitbucket.org/zhenzhong/hqs.git"
+    "url": "https://bitbucket.org/zhenzhong/hqs.git"
   },
   "author": "zhenzhong",
   "license": "ISC",
