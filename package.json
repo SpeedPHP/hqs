@@ -1,14 +1,14 @@
 {
   "name": "hqs",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Yet another Http Query Service.",
   "main": "hqs.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhenzhong/hqs.git"
+    "url": "https://github.com/speedphp/hqs.git"
   },
   "keywords": ["http", "sqs", "service", "httpsqs"],
-  "author": "zhenzhong",
+  "author": "speedphp",
   "license": "ISC",
   "bin": {
     "hqs": "./hqs.js"
